@@ -15,5 +15,6 @@ switch ($x)
 	default:
 		echo "Sorry, you have not won anything, try again.";
 		break;	
+		//this is a comment
 }
 ?>	
